@@ -17,8 +17,3 @@
 
   }
 </script>
-<style>
-    div {
-        color: cyan;
-    }
-</style>
